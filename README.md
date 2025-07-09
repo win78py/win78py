@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1D4ED8&size=30&lines=Hey!+It's+Win!;I'm+a+Fullstack+Developer...;And+I'm+a+proud+Vietnam+🇻🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=1D4ED8&size=30&lines=Hey!+It's+Win!;I'm+a+Fullstack+Developer...;And+I'm+a+proud+Vietnam+🇻🇳)]
 
 <!--
 <p align="center"> 
