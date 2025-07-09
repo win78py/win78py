@@ -84,8 +84,8 @@
 ![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black) -->
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![Npm](https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm&logoColor=CB3837)
+![Yarn](https://img.shields.io/badge/-Yarn-white?style=flat-square&logo=yarn)
 <!-- ![Subversion](http://img.shields.io/badge/-Subversion-white?style=flat-square&logo=subversion)
 ![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
 ![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
