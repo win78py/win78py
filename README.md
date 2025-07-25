@@ -33,6 +33,7 @@
 #### Languages and Tools:
 
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 <!-- ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white) 
@@ -50,6 +51,7 @@
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 -->
 ![Nest](https://img.shields.io/badge/-Nest-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node_Express](https://img.shields.io/badge/-Node_Express-339933?style=flat-square&logo=node.js&logoColor=white)
