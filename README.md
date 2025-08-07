@@ -25,7 +25,6 @@
 
 <br><br>
 -->
-👨‍💻 I’m currently working on **Hanbiro Vietnam**
 
 📫 How to reach me **win78py@gmail.com**
 
